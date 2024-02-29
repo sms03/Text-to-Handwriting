@@ -1,4 +1,4 @@
-# Text-to-Handwriting
+# Text to Handwriting
  Convert any TEXT or digital notes to HANDWRITTEN notes.
 
 ## Libraries used
